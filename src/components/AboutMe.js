@@ -5,7 +5,8 @@ const AboutMe = ({ theme }) => {
         <div className="section" id='aboutMeSection'>
             <h2 className="sectionHeader">ABOUT ME</h2>
             <p className='bio'>Hi, I'm Lucia! I'm a passionate creative  currently residing in Denver, CO. My educational background includes a degree in Statistics and Mathematics from the University of Central Florida, which has equipped me with a strong foundation in analytical thinking and problem-solving.
-
+                <br></br>
+                <br></br>
                 Throughout my career, I have gained extensive experience in the data realm, tackling complex projects, extracting valuable insights, and making data-driven recommendations. However, I have always had a keen interest in design and a desire to blend my technical expertise with my artistic eye.
                 <br></br>
                 <br></br>
@@ -15,7 +16,7 @@ const AboutMe = ({ theme }) => {
                 Beyond my professional pursuits, I find joy in exploring my hobbies. Music has always been a source of inspiration for me, and I love attending live performances and discovering new genres. In addition, I have a deep appreciation for art and enjoy expressing my creativity through various mediums. And of course, I'm a dedicated dog lover and spend my free time giving my dog the life he deserves.
                 <br></br>
                 <br></br>
-                I am committed to lifelong learning and continually expanding my skill set. I am excited to delve into the realms of UX/UI design and development, leveraging my analytical prowess, creative vision, and dedication to continuous growth to make a remarkable impact in the intersection of data and design.
+                I am committed to lifelong learning and continually expanding my skill set. I am excited to delve into the realms of UX/UI design and development, leveraging my analytical expertise, creative vision, and dedication to continuous growth to make a remarkable impact in the intersection of data and design.
                 <br></br>
                 <br></br>
                 f you're looking for someone who can bring a unique blend of analytical thinking, artistic sensibility, and a genuine love for problem-solving, I would love to connect and explore how we can create something extraordinary together.

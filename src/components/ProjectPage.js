@@ -12,7 +12,7 @@ const ProjectPage = ({ setShowPopUp, projectName, techsUsed, projectDescription,
             <h2 className='projectName'>{projectName}</h2>
             <h4 className='techUsed'>{'Created with ' + techsUsed}</h4>
             <p className='projectDescription'>{projectDescription}</p>
-            <a href={gitHubLink} target='_blank'>Link to Github Pages</a>
+            <a href={gitHubLink} target='_blank'>Link to Github</a>
             <h3>Screenshots:</h3>
             <div className='projectScreenshots'>
                 {projectScreenshots.map(link =>
