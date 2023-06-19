@@ -19,7 +19,7 @@ const AboutMe = ({ theme }) => {
                 I am committed to lifelong learning and continually expanding my skill set. I am excited to delve into the realms of UX/UI design and development, leveraging my analytical expertise, creative vision, and dedication to continuous growth to make a remarkable impact in the intersection of data and design.
                 <br></br>
                 <br></br>
-                f you're looking for someone who can bring a unique blend of analytical thinking, artistic sensibility, and a genuine love for problem-solving, I would love to connect and explore how we can create something extraordinary together.
+                If you're looking for someone who can bring a unique blend of analytical thinking, artistic sensibility, and a genuine love for problem-solving, I would love to connect and explore how we can create something extraordinary together.
                 <br></br>
                 <br></br>
                 </p>
