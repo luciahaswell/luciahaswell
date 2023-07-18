@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/luciahaswell/static/css/main.954a2401.css",
-    "main.js": "/luciahaswell/static/js/main.7ee2085c.js",
+    "main.css": "/luciahaswell/static/css/main.d5df3639.css",
+    "main.js": "/luciahaswell/static/js/main.1515c195.js",
     "static/media/react.JPG": "/luciahaswell/static/media/react.2e9a2099d70e3022eca9.JPG",
     "static/media/projectIcon.JPG": "/luciahaswell/static/media/projectIcon.3f7cd1073f9a4098b113.JPG",
     "static/media/thoughtspot.JPG": "/luciahaswell/static/media/thoughtspot.b0ad90dce6927e951b39.JPG",
@@ -18,21 +18,21 @@
     "static/media/html.JPG": "/luciahaswell/static/media/html.058657fe529d055dd3ce.JPG",
     "static/media/alteryx.JPG": "/luciahaswell/static/media/alteryx.e522f638beaa7423ba3c.JPG",
     "static/media/tableau.JPG": "/luciahaswell/static/media/tableau.3e88db7539d52e1b6920.JPG",
+    "static/media/step3.JPG": "/luciahaswell/static/media/step3.91e32d5da2e39586665d.JPG",
+    "static/media/step4.jpg": "/luciahaswell/static/media/step4.2aaab956f7f822e2d816.jpg",
     "static/media/headshot_green.JPG": "/luciahaswell/static/media/headshot_green.3e44b3a0aeebdd4b43da.JPG",
     "static/media/headshot_purple.JPG": "/luciahaswell/static/media/headshot_purple.ed21b629d2f38f49d9b2.JPG",
     "static/media/headshot_orange.JPG": "/luciahaswell/static/media/headshot_orange.eb3b84ca4433ffb82c62.JPG",
-    "static/media/step3.JPG": "/luciahaswell/static/media/step3.f50ee76226979e2c03db.JPG",
-    "static/media/step4.jpg": "/luciahaswell/static/media/step4.3be4b903c0f5d6f474cc.jpg",
-    "static/media/figma.JPG": "/luciahaswell/static/media/figma.6da8a1a189e7f5eb9bfb.JPG",
-    "static/media/step2.JPG": "/luciahaswell/static/media/step2.4e0582366fe53c3dcc81.JPG",
-    "static/media/step4.JPG": "/luciahaswell/static/media/step4.230dfa5fa070cb778f74.JPG",
-    "static/media/step1.JPG": "/luciahaswell/static/media/step1.d8c55d416941da779cd6.JPG",
+    "static/media/step2.JPG": "/luciahaswell/static/media/step2.86176e3fcb9d9b1d969f.JPG",
+    "static/media/figma.JPG": "/luciahaswell/static/media/figma.6860dd9aff0cd0555af3.JPG",
+    "static/media/step1.JPG": "/luciahaswell/static/media/step1.8974e4a058d8498b3844.JPG",
+    "static/media/step4.JPG": "/luciahaswell/static/media/step4.3111a28b61f40edbd292.JPG",
     "index.html": "/luciahaswell/index.html",
-    "main.954a2401.css.map": "/luciahaswell/static/css/main.954a2401.css.map",
-    "main.7ee2085c.js.map": "/luciahaswell/static/js/main.7ee2085c.js.map"
+    "main.d5df3639.css.map": "/luciahaswell/static/css/main.d5df3639.css.map",
+    "main.1515c195.js.map": "/luciahaswell/static/js/main.1515c195.js.map"
   },
   "entrypoints": [
-    "static/css/main.954a2401.css",
-    "static/js/main.7ee2085c.js"
+    "static/css/main.d5df3639.css",
+    "static/js/main.1515c195.js"
   ]
 }
