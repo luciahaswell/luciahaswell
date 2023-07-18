@@ -32,6 +32,17 @@ const projectList = [
         projectDescription: "Personal portfolio website for myself. Used Figma to build and outline the design before building in React",
         projectScreenshots: [require("../media/projectimgs/luciahaswell/figma.JPG")],
         gitHubLink: "https://github.com/luciahaswell/luciahaswell"
+    },
+    {
+        projectName: "Othello",
+        techsUsed: "React, HTML, CSS, Figma",
+        foldername: 'othello',
+        projectDescription: "Othello game built with React and design created in Figma",
+        projectScreenshots: [require("../media/projectimgs/othello/step1.JPG"),
+            require("../media/projectimgs/othello/step2.JPG"),
+            require("../media/projectimgs/othello/step3.JPG"),
+            require("../media/projectimgs/othello/figma.JPG")],
+        gitHubLink: "https://github.com/luciahaswell/othello"
     }
 ]
 
