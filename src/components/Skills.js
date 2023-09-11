@@ -26,7 +26,10 @@ const Skills = ({theme}) => {
         {logoName: 'Tableau',
         src: require(`../media/colors/${theme}/tableau.JPG`)},
         {logoName: 'ThoughtSpot',
-        src: require(`../media/colors/${theme}/thoughtspot.JPG`)}]
+        src: require(`../media/colors/${theme}/thoughtspot.JPG`)},
+        {logoName: 'Figma',
+        src: require(`../media/colors/${theme}/figma.JPG`)}
+    ]
     
     const [hoveredLogo,setHoveredLogo] = useState(null);
 

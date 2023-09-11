@@ -1,50 +1,8 @@
 import React, { useState } from "react";
 import ProjectIcon from "./ProjectIcon";
 import ProjectPage from "./ProjectPage";
+import projectList from "../data/projectData";
 
-const projectList = [
-    {
-        projectName: "Jammming",
-        foldername: 'jammming',
-        techsUsed: "React, HTML, CSS",
-        projectDescription: "Created with the guidance of Codecademy's Front-End Engineer Career Path. This React project lets user browse songs through the Spotify API and add those to a playlist. Once all the songs are added to the playlist, the user can save the playlist to their own Spotify profile.",
-        projectScreenshots: [require("../media/projectimgs/jammming/step1.JPG"),
-            require("../media/projectimgs/jammming/step2.JPG"),
-            require("../media/projectimgs/jammming/step3.JPG"),
-            require("../media/projectimgs/jammming/step4.jpg")],
-        gitHubLink: "https://github.com/luciahaswell/jammming"
-    },
-    {
-        projectName: "Tic-Tac-Toe",
-        techsUsed: "React, HTML, CSS",
-        foldername: 'tictactoe',
-        projectDescription: "Basic React app that lets users play the classic game of tic-tac-toe. Includes a dark mode feature to switch display.",
-        projectScreenshots: [require("../media/projectimgs/tictactoe/step1.JPG"),
-            require("../media/projectimgs/tictactoe/step2.JPG"),
-            require("../media/projectimgs/tictactoe/step3.JPG"),
-            require("../media/projectimgs/tictactoe/step4.JPG")],
-        gitHubLink: "https://luciahaswell.github.io/tictactoe/"
-    },
-    {
-        projectName: "Portfolio Website",
-        techsUsed: "React, HTML, CSS,Figma",
-        foldername: 'luciahaswell',
-        projectDescription: "Personal portfolio website for myself. Used Figma to build and outline the design before building in React",
-        projectScreenshots: [require("../media/projectimgs/luciahaswell/figma.JPG")],
-        gitHubLink: "https://github.com/luciahaswell/luciahaswell"
-    },
-    {
-        projectName: "Othello",
-        techsUsed: "React, HTML, CSS, Figma",
-        foldername: 'othello',
-        projectDescription: "Othello game built with React and design created in Figma",
-        projectScreenshots: [require("../media/projectimgs/othello/step1.JPG"),
-            require("../media/projectimgs/othello/step2.JPG"),
-            require("../media/projectimgs/othello/step3.JPG"),
-            require("../media/projectimgs/othello/figma.JPG")],
-        gitHubLink: "https://github.com/luciahaswell/othello"
-    }
-]
 
 const Projects = () => {
     const [showPopUp, setShowPopUp] = useState(false);
